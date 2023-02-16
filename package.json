@@ -87,7 +87,7 @@
     "react-native-mask-input": "^1.2.3",
     "react-native-modal": "^13.0.1",
     "react-native-otp-inputs": "^7.4.0",
-    "react-native-pager-view": "6.1.2",
+    "react-native-pager-view": "6.1.4",
     "react-native-passkit-wallet": "^0.1.6",
     "react-native-qrcode-svg": "^6.2.0",
     "react-native-reanimated": "~2.14.4",
