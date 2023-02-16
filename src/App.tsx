@@ -4,7 +4,6 @@ import { StyleSheet, Text, View, Animated } from 'react-native';
 import Constants from 'expo-constants';
 
 // eslint-disable-next-line @typescript-eslint/ban-ts-comment
-// @ts-ignore
 import * as SplashScreen from 'expo-splash-screen';
 import SplashImageDark from '../assets/cdorfordark.png';
 
