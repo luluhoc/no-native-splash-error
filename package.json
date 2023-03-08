@@ -71,7 +71,7 @@
     "react": "18.2.0",
     "react-dom": "18.2.0",
     "react-hook-form": "^7.39.1",
-    "react-native": "0.71.2",
+    "react-native": "0.71.4",
     "react-native-alert-notification": "^0.3.4",
     "react-native-androw": "^0.0.34",
     "react-native-config": "^1.5.0",
